@@ -29,7 +29,7 @@ Profiles can use a GUID as a unique identifier. To make a profile your default p
 
 **Property name:** `guid`
 
-**Necessity:** Required
+**Necessity:** Optional
 
 **Accepts:** GUID as a string in registry format: `"{00000000-0000-0000-0000-000000000000}"`
 
